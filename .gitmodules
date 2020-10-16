@@ -1,0 +1,6 @@
+[submodule "lib"]
+	path = lib
+	url = https://github.com/fatehMohamed14/ngx-translate-lib.git
+[submodule "demo"]
+	path = demo
+	url = https://github.com/fatehMohamed14/ngx-translateIn-demo.git
